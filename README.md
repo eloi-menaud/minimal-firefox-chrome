@@ -1,6 +1,14 @@
 # minimal-firefox-chrome
 A minimal Firefox UI without useless buttons or icons; using keyboard shortcuts allows for more screen space and workspace clarity.
 
+### before
+![](./doc_rsc/default.png)
+### after
+![](./doc_rsc/minimal.png)
+
+<br><br>
+
+
 ## Installation
 1. Download `userChrome.css`
 2. Type `about:profiles` in the Firefox address bar to access profile settings.
